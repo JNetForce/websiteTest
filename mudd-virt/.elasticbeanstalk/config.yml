@@ -1,0 +1,11 @@
+branch-defaults:
+  default:
+    environment: null
+    group_suffix: null
+global:
+  application_name: mudd-tutorial
+  default_ec2_keyname: AKIAJP5R6YO6X54HKLKQ
+  default_platform: python3.4
+  default_region: us-west-2
+  profile: eb-cli
+  sc: null
